@@ -1,7 +1,3 @@
-/////////////////////////////////////////////////////
-// Source.cpp
-// головний файл проекту - main
-
 #include <iostream>
 #include "Fraction.h"
 
